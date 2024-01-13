@@ -1,0 +1,1 @@
+#What is this project all about?  tinyAdventurGameUpdate is a small program adventure game used to explore and add Chatgpt features and have fun practicing python code
